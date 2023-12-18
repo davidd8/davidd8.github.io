@@ -2,4 +2,8 @@
 
 Blog: [David Ex Machina](https://www.davidexmachina.com)
 
-I have some [principles](principles.md).
+[Personal principles](principles.md)
+
+[Company principles](company-principles.md)
+
+[Influences](influences.md)
