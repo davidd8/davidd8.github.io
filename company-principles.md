@@ -2,7 +2,8 @@
 ... or an ideal company set up.
 
 * Mission-driven. A company with a strong purpose creates a lot more value.
-* Impactful. Build something people want and are excited about. 
+* Focus on impact. The key dimension across any activity.
+* Build something people want and are excited about. 
 * Remote-friendly. It doesn't have to be fully-remote, but being remote should not put an employee at a disadvantage.
 * Async-first. People need time to digest information to have thoughtful discussions.
 * Minimize meetings. Avoid the back-to-back meetings everyday. Even executives should have a couple hours of focus time everyday.
@@ -17,6 +18,7 @@
 * Hire/promote from within first.
 * Spend wisely. Spend time on things that matter. Spend money on employees and perks and benefits to make them happy and productive.
 * People first. Look out for what the individual wants. The company may not be the right fit for them, and that's ok. People and companies change over time.
+* Flexible work environment. People perform better and more creatively on their own time.
 * Equal pay per role and level.
 * Performance Reviews only after profitability. And even then, spend as little time as possible on it.
 * Collaborative process with single-threaded decision making.
