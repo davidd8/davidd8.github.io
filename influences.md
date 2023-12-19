@@ -1,17 +1,23 @@
 # Influences
 
-## People
+## People with noteworthy ideas
 * Paul Graham
 * Nassim Nicholas Taleb
 * Sam Harris
 * Naval Ravikant
-* Marc Andressen 
+* David Heinemeier Hansson
+* Marc Andressen
 * Peter Thiel
 * Larry Page
 * Sergey Brin
 * Elon Musk
+* Balaji Srinivasan
 
-## Writing
+## Writing that makes you think
 * The Techno Optimist Manifesto
 * The Rational Optimist
 * The End of Faith
+* Life 3.0
+* The Network State
+* Predictably Irrational
+* Thinking Fast and Slow
