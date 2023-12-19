@@ -14,6 +14,7 @@
 * Balaji Srinivasan
 
 ## Writing that made me think
+* The Incerto (Fooled by Randomness, Black Swan, Bed of Procrustes, Antifragile, Skin in the Game)
 * The Techno Optimist Manifesto
 * The Rational Optimist
 * The End of Faith
