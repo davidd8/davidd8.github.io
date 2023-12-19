@@ -13,7 +13,7 @@
 * Elon Musk
 * Balaji Srinivasan
 
-## Writing that makes you think
+## Writing that made me think
 * The Techno Optimist Manifesto
 * The Rational Optimist
 * The End of Faith
